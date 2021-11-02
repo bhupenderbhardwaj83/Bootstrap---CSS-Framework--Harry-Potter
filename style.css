@@ -1,0 +1,44 @@
+.container-fluid{
+    border: 8px solid rgb(0, 7, 7);
+}
+
+.container{
+    border: 8px solid rgb(36, 48, 46);
+    background: rgb(185, 172, 172);
+}
+.row{
+    border: 5px solid white);
+}
+
+.col,.col-4{
+    border: 3px solid rgb(6, 110, 6);
+}
+
+.orange{
+    background: rgb(250, 223, 136);
+    color: crimson;
+}
+
+
+.pink{
+    background: pink;
+}
+
+.blue{
+    background: blue;
+    color: white;
+}
+
+.green{
+    background: green;
+    color: white;
+}
+
+.img {
+    width: 286px;
+    height: 325px;
+    object-fit: scale-down
+  }
+  .card{
+      background: rgb(185, 172, 172);
+  }
